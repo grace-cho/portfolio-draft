@@ -1,0 +1,113 @@
+html {
+	width: 100%;
+	height: 100%;
+	clip: auto;
+	position: absolute;
+	overflow: hidden;
+}
+
+body{
+	max-width: 1024px;
+	max-height: 550px;
+
+}
+
+
+
+.line {
+	background: #B4F4CC;
+}
+
+.ohyeah {
+    font-family: helvetica;
+    font-size: 20px;
+    color: #414141;
+    letter-spacing: 1.45px;
+	text-align: center;
+	line-height: 12px;
+	position: relative;
+	top: -1000px;
+	left:300px;
+}
+
+.blurb{
+	font-family: helvetica;
+	position: relative;
+	top: -980px;
+	left:300px;
+	text-align: center;
+}
+
+
+
+.surf {
+	font-family: helvetica;
+	color:#B4F4CC;
+	text-align: center;
+
+}
+
+.goodvibes {
+	position: relative;
+	top: -1090px;
+	left:6px;
+	cursor: pointer;
+}
+
+/*background: #FFFFFF;
+box-shadow: 0 2px 15px 5px rgba(0,0,0,0.20);*/
+
+button{
+   background: #C9F4D9;
+   font-family: helvetica-bold;
+   border-radius: 25px;
+   width: 177px;
+   height: 38px;
+   letter-spacing: 4.67px;
+   position: relative;
+   top: -950px;
+   left: 650px;
+   cursor:pointer;
+   border: none;
+}
+
+.resume{
+
+    font-family: Helvetica-Bold;
+    color: #414141;
+    letter-spacing: 4.67px;
+    text-align: center;
+    width: 177px;
+    height: 38px;
+    cursor:pointer;
+    border: 4px solid #B4F4CC;
+    border-radius: 25px;
+    background: #FFFFFF;
+
+}
+
+.pic{
+  display: block;
+  position: relative;
+  top: -550px;
+  left:150px;
+ 
+
+}
+
+.rectangle{
+	width:362px;
+	height: 550px;
+	background: #B4F4CC;
+
+}
+
+html, body, {
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+
